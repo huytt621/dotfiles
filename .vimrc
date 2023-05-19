@@ -28,7 +28,10 @@ set autoindent
 set nobackup
 set noswapfile
 
-set clipboard=unnamedplus
+set clipboard=unnamed
+set paste
+
+set belloff=all
 
 nnoremap ; :
 
